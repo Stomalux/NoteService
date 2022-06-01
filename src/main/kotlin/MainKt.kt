@@ -1,7 +1,9 @@
 
 // Вебинар по теме «Generics и коллекции»
 
-fun main(){
+// подключение с рабочего компа
 
+fun main(){
+println("Zametki")
 
 }
