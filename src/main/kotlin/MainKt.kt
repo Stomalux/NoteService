@@ -9,7 +9,7 @@ import service.NoteService
 
 
 fun main() {
-    println("Zametki2")
+    println("Zametki3")
     val noteService = NoteService()
     val commentService = CommentService()
 
