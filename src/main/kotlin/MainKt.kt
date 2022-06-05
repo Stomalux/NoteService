@@ -1,3 +1,4 @@
+
 // Вебинар по теме «Generics и коллекции»
 
 
@@ -8,7 +9,7 @@ import service.NoteService
 
 
 fun main() {
-
+    println("Zametki")
     val noteService = NoteService()
     val commentService = CommentService()
 
@@ -34,3 +35,10 @@ fun main() {
 
 
 }
+//data class GenericPair<First, Second>(val first: First, val second: Second){
+//    fun commonFunction(){
+//
+//    }
+//
+//
+//}
